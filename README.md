@@ -3,8 +3,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying web3
-- 🎮 &nbsp; Currently interested in Dapps, web3, Ethereum, the Metaverse and 
-- Blockchain Technology.
+- 🎮 &nbsp; Currently interested in Dapps, web3, Ethereum, the Metaverse,  
+- Blockchain Technology and Cryptography.
  
 
 <h3>🛠 Tech Stack</h3>
