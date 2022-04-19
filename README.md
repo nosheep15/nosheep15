@@ -1,8 +1,28 @@
-- 👋 Hi, I’m @nosheep15
-- 👀 I’m interested in the web3, Etheurum and the Metaverse. 
-- 🌱 I’m currently learning everything to become .....
-- 💞️ I’m looking to collaborate on ...? not sure yet.
-- 📫 How to reach me - twitter @ nosheep15. 
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying web3
+- 🎮 &nbsp; Currently interested in web3, Etheurum, the Metaverse and Blockchain Technology.
+-  
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Javascript | Python 
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | 
+
+
+
+### 🤝🏻 Connect with Me 
+
+ - Connect with me on Twitter @ nosheep15 👨🏻‍💻
+ - 📫 Shoot Me an [Email](mailto:nosheep@writeme.com) 💌
+ 
+
+
+
 
 <!---
 nosheep15/nosheep15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
